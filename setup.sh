@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ -d "/workspace/ComfyUI" ]; then
   echo "/workspace/ComfyUI already exists. Exiting..."
   exit 0
